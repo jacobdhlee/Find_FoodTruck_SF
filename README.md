@@ -36,7 +36,7 @@ npm unlink
 * [Moment](https://momentjs.com/)
 * [CLI-Table](https://github.com/Automattic/cli-table)
 
-## Versioning
+## Version
 
 1.0.0
 
