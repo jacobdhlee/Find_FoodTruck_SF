@@ -16,6 +16,6 @@
     "commander": "^3.0.2",
     "inquirer": "^7.0.0",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26"
+    "moment-timezone": "^0.5.35"
   }
 }
